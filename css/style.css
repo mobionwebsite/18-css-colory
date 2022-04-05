@@ -1,0 +1,19 @@
+h1 {
+    color: #ff0000;
+    font-size: 2.5em;
+}
+#first{
+    color: #a42423;
+}
+#second{
+    color: #00008f;
+}
+
+#first,#second{
+    font-size: 2em;
+    margin-bottom: 50px;
+}
+#top{
+    background-color: #faebd6;
+    height: 400px;
+}
